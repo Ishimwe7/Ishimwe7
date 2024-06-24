@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishimwe Pacifique</h1>
 <h3 align="center">A passionate full stack developer from Rwanda</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishimwe7&label=Profile%20views&color=0e75b6&style=flat" alt="ishimwe7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishimwe7" alt="ishimwe7" /></a> </p>
-
 - 🔭 I’m currently working on [E-commerce application](https://github.com/atlp-rwanda/e-commerce-lydia-32-bn)
 
 - 🌱 I’m currently learning **React with Redux, React native, and Flatter**
