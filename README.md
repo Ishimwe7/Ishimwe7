@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ishimwe Pacifique</h1>
-<h3 align="center">A passionate full stack developer from Rwanda</h3>
+<h3 align="center">A passionate Software & ML Engineer and Data Scientist from Rwanda</h3>
 
-- 🔭 I’m currently working on [E-commerce application](https://github.com/atlp-rwanda/e-commerce-lydia-32-bn)
+- 🔭 I’m currently working on Personal and Career growth
 
-- 🌱 I’m currently learning **React with Redux, React native, and Flatter**
+- 🌱 I’m currently learning **Deep Learning and NLP, Data Science, and AIOps**
 
-- 👨‍💻 All of my projects are available at [https://my-brand-ishimwe.netlify.app/](https://my-brand-ishimwe.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nyanja-ishimwe.vercel.app/](https://nyanja-ishimwe.vercel.app/)
 
 - 💬 Ask me about **React, Spring boot, Typescript, Tailwind, etc**
 
-- 📫 How to reach me **ishimweinstein@gmail.com**
+- 📫 How to reach me **ishimwe.nyanja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
